@@ -1,2 +1,2 @@
 # jira-reopened-ticket
-Export Jira tickets that has been tagged as reopened in the current date
+Export Jira tickets that have been tagged as reopened on the current date
